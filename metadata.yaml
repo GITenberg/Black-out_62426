@@ -1,6 +1,9 @@
 _repo: Black-out_62426
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Blackout
+covers:
+- cover_type: archival
+  image_path: 62426-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrell, Joseph
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '35576'
     url: http://www.gutenberg.org/2009/agents/35576
 description: Listed in magazine table of contents as "Blackout."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62426#Black-out
 gutenberg_issued: '2020-06-19'
 gutenberg_type: Text
 identifiers:
