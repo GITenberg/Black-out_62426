@@ -1,0 +1,28 @@
+_repo: Black-out_62426
+_version: 0.0.1
+alternative_title: Blackout
+creator:
+  author:
+    agent_name: Farrell, Joseph
+    alias: Farrel, Joseph
+    gutenberg_agent_id: '35576'
+    url: http://www.gutenberg.org/2009/agents/35576
+description: Listed in magazine table of contents as "Blackout."
+gutenberg_issued: '2020-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Astronomical observatories -- Fiction'
+- GITenberg
+title: Black-out
+url: http://www.gutenberg.org/ebooks/62426
